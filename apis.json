@@ -1,0 +1,65 @@
+{
+    "name": "CoreCommerce",
+    "description": "CoreCommerce is a reliable, customizable hosted eCommerce platform. Since 2001, CoreCommerce has provided superior eCommerce software and personalized service to clients globally. With so many eCommerce platforms out there to build your eCommerce busin...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/743-corecommerce.jpg",
+    "tags": [
+        "api provider",
+        "commerce",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/corecommerce\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CoreCommerce",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/743-corecommerce.jpg",
+            "humanURL": "http:\/\/www.corecommerce.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/corecommerce-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/corecommerce"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/corecommerce"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.corecommerce.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "sales@corecommerce.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@corecommerce.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/CoreCommerce"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/corecommerce"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.corecommerce.com"
+        }
+    ]
+}
